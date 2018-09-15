@@ -1,6 +1,8 @@
 # frontend
 
-Projeto angular 6
+Projeto angular 6.
+
+Este projeto foi criado por Diego Moraes Leite para apresentação de uma solução client que consulta um microserviço.
 
 ## Development server
 
